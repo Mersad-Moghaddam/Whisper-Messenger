@@ -3,6 +3,8 @@ go 1.22.0
 use (
     ./libs/domain
     ./libs/shared
+    ./services/auth
+    ./services/gateway
     ./services/gateway
     ./libs/shared
 )

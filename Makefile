@@ -1,5 +1,6 @@
 SHELL := /bin/bash
 
+GO_MODULES := libs/shared libs/domain services/gateway services/auth
 GO_MODULES := libs/shared libs/domain services/gateway
 GO_MODULES := libs/shared
 
