@@ -1,6 +1,7 @@
 SHELL := /bin/bash
 
 GO_MODULES := libs/shared libs/domain services/gateway
+GO_MODULES := libs/shared
 
 .PHONY: help fmt lint test tidy up down logs
 

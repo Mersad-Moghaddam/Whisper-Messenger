@@ -4,4 +4,5 @@ use (
     ./libs/domain
     ./libs/shared
     ./services/gateway
+    ./libs/shared
 )
